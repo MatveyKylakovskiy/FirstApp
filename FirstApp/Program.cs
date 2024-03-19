@@ -4,3 +4,4 @@ string name = Console.ReadLine();
 Console.WriteLine($"Hello {name}");
 
 Console.WriteLine($"Helcxxclo {name}");
+Console.WriteLine($"Helcxxclo {name}");
